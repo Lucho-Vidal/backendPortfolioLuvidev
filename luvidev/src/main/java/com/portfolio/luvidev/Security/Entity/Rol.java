@@ -1,5 +1,6 @@
 package com.portfolio.luvidev.Security.Entity;
 
+
 import com.portfolio.luvidev.Security.Enums.RolNombre;
 import javax.persistence.Entity;
 import javax.persistence.EnumType;

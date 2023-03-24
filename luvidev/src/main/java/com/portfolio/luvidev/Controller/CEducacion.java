@@ -4,8 +4,6 @@ import com.portfolio.luvidev.Dto.dtoEducacion;
 import com.portfolio.luvidev.Entity.Educacion;
 import com.portfolio.luvidev.Security.Controller.Mensaje;
 import com.portfolio.luvidev.Service.Seducacion;
-import com.portfolio.luvidev.Entity.Educacion;
-import com.portfolio.luvidev.Service.Seducacion;
 import java.util.List;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;

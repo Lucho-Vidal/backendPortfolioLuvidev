@@ -1,9 +1,9 @@
 //
-//package com.porfolio.luvidev.Security.util;
+//package com.portfolio.luvidev.Security.util;
 //
-//import com.porfolio.luvidev.Security.Entity.Rol;
-//import com.porfolio.luvidev.Security.Enums.RolNombre;
-//import com.porfolio.luvidev.Security.Service.RolService;
+//import com.portfolio.luvidev.Security.Entity.Rol;
+//import com.portfolio.luvidev.Security.Enums.RolNombre;
+//import com.portfolio.luvidev.Security.Service.RolService;
 //import org.springframework.beans.factory.annotation.Autowired;
 //import org.springframework.boot.CommandLineRunner;
 //import org.springframework.stereotype.Component;
