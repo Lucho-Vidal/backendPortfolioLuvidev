@@ -12,7 +12,7 @@ import com.portfolio.luvidev.Security.jwt.JwtProvider;
 import java.text.ParseException;
 import java.util.HashSet;
 import java.util.Set;
-import javax.validation.Valid;
+import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -3,7 +3,7 @@ package com.portfolio.luvidev.Security.Service;
 import com.portfolio.luvidev.Security.Entity.Usuario;
 import com.portfolio.luvidev.Security.Repository.IUsuarioRepository;
 import java.util.Optional;
-import javax.transaction.Transactional;
+import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

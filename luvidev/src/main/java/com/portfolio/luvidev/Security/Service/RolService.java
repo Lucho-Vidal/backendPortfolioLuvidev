@@ -4,7 +4,7 @@ import com.portfolio.luvidev.Security.Entity.Rol;
 import com.portfolio.luvidev.Security.Enums.RolNombre;
 import com.portfolio.luvidev.Security.Repository.IRolRepository;
 import java.util.Optional;
-import javax.transaction.Transactional;
+import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

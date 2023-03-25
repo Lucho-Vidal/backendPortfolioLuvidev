@@ -1,6 +1,6 @@
 package com.portfolio.luvidev.Dto;
 
-import javax.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotBlank;
 
 /**
  *

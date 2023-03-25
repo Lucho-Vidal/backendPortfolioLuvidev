@@ -1,7 +1,7 @@
 package com.portfolio.luvidev.Dto;
 
 import java.time.LocalDate;
-import javax.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotBlank;
 
 /**
  *
